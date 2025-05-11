@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) This is an in-progress rewrite of [Library Management BackEnd](https://github.com/Frozen-Potato/Library-Management-BE) in NestJS for educational purpose
+This is an in-progress rewrite of [Library Management BackEnd](https://github.com/Frozen-Potato/Library-Management-BE) in NestJS for educational purpose
 
 ## Installation
 
@@ -33,17 +33,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
 ## License
 
 Nest is [MIT licensed](LICENSE).
